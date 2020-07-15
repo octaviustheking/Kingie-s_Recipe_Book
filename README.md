@@ -192,7 +192,7 @@
 </p>
 <img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3983951.jpg&w=596&h=596&c=sc&poi=face&q=85">
         
-                <h2 id="garlic-bread">Recipe #3: Chicken Pot Pie</h2>
+                <h2 id="garlic-bread">Recipe #4: Toasted Garlic Bread </h2>
         
         <ul>
             <li>Time: 15 minutes</li>
