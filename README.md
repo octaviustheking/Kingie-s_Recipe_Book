@@ -22,8 +22,8 @@
             <li><a href="#berry-lemonade">Recipe #1: Blueberry Lemonade</a></li>
             <li><a href="#bacon-apples">Recipe #2: Bacon Apples</a></li>
             <li><a href="#pot-pie">Recipe #3: Chicken Pot Pie</a></li>
-            <li><a href="#garlic-bread>Recipe #4: Toasted Garlic Bread</a></li>
-            <li><a href="#vanilla-ice-cream>Recipe #5: Vanilla Ice Cream</a></li>
+            <li><a href="#garlic-bread">Recipe #4: Toasted Garlic Bread</a></li>
+            <li><a href="#vanilla-ice-cream">Recipe #5: Vanilla Ice Cream</a></li>
             
         </ol>
         
