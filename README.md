@@ -22,6 +22,7 @@
             <li><a href="#berry-lemonade">Recipe #1: Blueberry Lemonade</a></li>
             <li><a href="#bacon-apples">Recipe #2: Bacon Apples</a></li>
             <li><a href="#pot-pie">Recipe #3: Chicken Pot Pie</a></li>
+            <li><a href="#garlic-bread>Recipe #4: Toasted Garlic Bread</a></li>
             
         </ol>
         
@@ -189,6 +190,106 @@
 <p><strong>Step 5:</strong>Bake in the preheated oven for 30 to 35 minutes, or until pastry is golden brown and filling is bubbly. Cool for 10 minutes before serving.
 </p>
 <img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3983951.jpg&w=596&h=596&c=sc&poi=face&q=85">
+        
+                <h2 id="garlic-bread">Recipe #3: Chicken Pot Pie</h2>
+        
+        <ul>
+            <li>Time: 15 minutes</li>
+            <li>Servings: 10</li>
+        </ul>
+        
+<table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                <tr>
+                    <td>Italian bread</td>
+                    <td>1 loaf (1 pound)</td>
+                </tr>
+                <tr>
+                    <td>butter, softened</td>
+                    <td>5 tablespoons</td>
+                </tr>
+                <tr>
+                    <td>extra virgin olive oil</td>
+                    <td>2 teaspoons</td>
+                </tr><tr>
+                    <td>garlic, crushed</td>
+                    <td>3 cloves</td>
+                </tr>
+                <tr>
+                    <td>dried oregano</td>
+                    <td>1 teaspoon </td>
+                </tr>
+                <tr>
+                    <td>salt and pepper</td>
+                    <td>just to taste</td>
+                </tr>
+                <tr>
+                    <td>shredded mozzarella cheese</td>
+                    <td>1 cup</td>
+                </tr>
+                
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+<p><strong>Step 1:</strong>Preheat the broiler.
+</p>
+<p><strong>Step 2:</strong>Cut the bread into slices 1 to 2 inches thick.
+</p>
+<p><strong>Step 3:</strong>In a small bowl, mix butter, olive oil, garlic, oregano, salt and pepper. Spread the mixture evenly on the bread slices.
+</p>
+<p><strong>Step 4:</strong>On a medium baking sheet, arrange the slices evenly and broil 5 minutes, or until slightly brown. Check frequently so they do not burn.
+</p>
+<p><strong>Step 5:</strong>Remove from broiler. Top with cheese and return to broiler 2 to 3 minutes, until cheese is slightly brown and melted. Serve at once.
+</p>
+<img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F262642.jpg&w=596&h=399&c=sc&poi=face&q=85">
+
+        <h2 id="vanilla-ice-cream">Recipe #5: Vanilla Ice Cream </h2>
+        
+        <ul>
+            <li>Time: 3 hours 30 minutes</li>
+            <li>Servings: 8</li>
+        </ul>
+        
+<table>
+            <thead>
+                <tr>
+                    <th>Ingredients</th>
+                    <th>Quantity</th>
+                </tr>
+                <tr>
+                    <td>heavy whipping cream</td>
+                    <td>2 cups</td>
+                </tr>
+                <tr>
+                    <td>half-and-half cream</td>
+                    <td>2 cups</td>
+                </tr>
+                <tr>
+                    <td>white sugar</td>
+                    <td>3/4 cup </td>
+                </tr><tr>
+                    <td>vanilla extract</td>
+                    <td>1 tablespoon</td>
+                </tr>
+            </thead>
+            <tbody>
+            </tbody>
+        </table>
+        
+        <p><strong>Step 1:</strong>In a large bowl, combine the heavy cream and the half and half. Gradually whisk in the sugar until blended.
+</p>
+<p><strong>Step 2:</strong>Whisk in the vanilla. Refrigerate, covered, until very cold, at least 3 hours. 
+</p>
+<p><strong>Step 3:</strong>Whisk the mixture to blend and pour into the canister of an ice cream maker. Freeze according to the manufacturer's directions. Eat at once. 
+</p>
+<img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F734000.jpg&w=596&h=596&c=sc&poi=face&q=85" width="456" height="456">
+
         
     <p><em>Source: <a href="https://www.allrecipes.com/">Allrecipes</a></em></p>
     <em><a href="#top"> Back to the Top</a></em>
