@@ -8,6 +8,15 @@
         body {
             font-family:cursive;
         }
+        a:hover { 
+            background-color: rgb(255, 214, 255);
+        }  
+        a:active {
+            background-color: rgb(255, 214, 255);
+         } 
+            a:focus {
+                background-color: rgb(255, 214, 255);
+            } 
         </style>
     </head>
     <body>
