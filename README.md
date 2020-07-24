@@ -71,7 +71,7 @@
         
         <p><strong>Step 1:</strong>Combine blueberries, sweetener, lemon juice, and 1 cup water together in a blender; blend until smooth. Pour into a pitcher. Add remaining water and stir.
 </p>
-<img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8197532.jpg&q=85">
+<img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F8197532.jpg&q=85" alt="Purple-ish Smoothie Looking Drink!">
 
 
             
@@ -116,7 +116,7 @@
 </p>
 <p><strong>Step 3:</strong>Place the loaf pan into the campfire or on the grill; cook for about 3 minutes. Carefully remove the pan from the fire and sprinkle bacon over apples. Place in the fire or on the grill for about 5 minutes more.
 </p>
-<img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4484680.jpg&w=596&h=596&c=sc&poi=face&q=85">
+<img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F4484680.jpg&w=596&h=596&c=sc&poi=face&q=85" alt="Apples with some bacon.">
 
 
         <h2 id="pot-pie">Recipe #3: Chicken Pot Pie</h2>
@@ -199,7 +199,7 @@
 </p>
 <p><strong>Step 5:</strong>Bake in the preheated oven for 30 to 35 minutes, or until pastry is golden brown and filling is bubbly. Cool for 10 minutes before serving.
 </p>
-<img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3983951.jpg&w=596&h=596&c=sc&poi=face&q=85">
+<img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F3983951.jpg&w=596&h=596&c=sc&poi=face&q=85" alt=" A big round pie!">
         
                 <h2 id="garlic-bread">Recipe #4: Toasted Garlic Bread </h2>
         
@@ -257,7 +257,7 @@
 </p>
 <p><strong>Step 5:</strong>Remove from broiler. Top with cheese and return to broiler 2 to 3 minutes, until cheese is slightly brown and melted. Serve at once.
 </p>
-<img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F262642.jpg&w=596&h=399&c=sc&poi=face&q=85">
+<img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F262642.jpg&w=596&h=399&c=sc&poi=face&q=85" alt="Yummy looking bread!">
 
         <h2 id="vanilla-ice-cream">Recipe #5: Vanilla Ice Cream </h2>
         
@@ -298,7 +298,7 @@
 </p>
 <p><strong>Step 3:</strong>Whisk the mixture to blend and pour into the canister of an ice cream maker. Freeze according to the manufacturer's directions. Eat at once. 
 </p>
-<img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F734000.jpg&w=596&h=596&c=sc&poi=face&q=85" width="456" height="456">
+<img src="https://imagesvc.meredithcorp.io/v3/mm/image?url=https%3A%2F%2Fimages.media-allrecipes.com%2Fuserphotos%2F734000.jpg&w=596&h=596&c=sc&poi=face&q=85" width="456" height="456" alt="A few scoops of vanilla ice cream!">
 
         
     <p><em>Source: <a href="https://www.allrecipes.com/">Allrecipes</a></em></p>
