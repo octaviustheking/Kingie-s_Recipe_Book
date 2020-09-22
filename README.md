@@ -1,5 +1,5 @@
 # Kingie's Recipe Book
-<!DOCTYPE html>
+
 <html>
     <head>
         <title>Kingie's Recipe Book</title>
